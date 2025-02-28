@@ -22,7 +22,7 @@ I used:
 - some fuses (to protect the solarpanel and battery)
 - wires (6 mm2)
 
-<img src="./assets/esp32.jpg" alt="drawing" width="250"/>
+<img src="./assets/ESP32.jpg" alt="drawing" width="250"/>
 <img src="./assets/TTLtoRS485.jpg" alt="drawing" width="250"/>
 
 I have taken everything from the manufacturer's documentation and connected everything accordingly
