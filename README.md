@@ -53,8 +53,8 @@ Finally, the data connection between the controller and the RS485 module
 `MPPT Controller (pin 5 A) -> RS485(A)`<br>
 
 <img src="./assets/SmartPV.png" alt="drawing" width="250"/>
-<img src="./assets/box.jpg" alt="drawing" width="289"/>
-<img src="./assets/box1.jpg" alt="drawing" width="265"/>
+<img src="./assets/Box.jpg" alt="drawing" width="289"/>
+<img src="./assets/Box1.jpg" alt="drawing" width="265"/>
 
 By the way, I used a patch cable to connect the solar charge controller to the box, see images
 
